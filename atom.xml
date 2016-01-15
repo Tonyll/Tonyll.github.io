@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[风之子小站]]></title>
+  <subtitle><![CDATA[爱技术 爱软妹 爱爱爱]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2016-01-07T04:03:03.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name><![CDATA[Tony LLL]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="http://yoursite.com/2016/01/07/hello-world/"/>
+    <id>http://yoursite.com/2016/01/07/hello-world/</id>
+    <published>2016-01-07T04:03:03.000Z</published>
+    <updated>2016-01-07T04:03:03.000Z</updated>
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick_Start"><a href="#Quick_Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create_a_new_post"><a href="#Create_a_new_post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run_server"><a href="#Run_server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate_static_files"><a href="#Generate_static_files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy_to_remote_sites"><a href="#Deploy_to_remote_sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[a_new_article]]></title>
+    <link href="http://yoursite.com/2013/12/02/a-new-article/"/>
+    <id>http://yoursite.com/2013/12/02/a-new-article/</id>
+    <published>2013-12-02T07:30:16.000Z</published>
+    <updated>2016-01-13T05:59:25.000Z</updated>
+    <content type="html"><![CDATA[<p>这里开始使用markdown格式输入你的正文。</p>
+<p>tags:</p>
+<hr>
+<blockquote>
+<p>zheshi </p>
+<blockquote>
+<p>shenme  </p>
+</blockquote>
+</blockquote>
+<hr>
+<ul>
+<li>red</li>
+<li>blue</li>
+<li>green</li>
+</ul>
+<hr>
+<ul>
+<li>Red</li>
+<li>Blue</li>
+<li><p>Green</p>
+<ol><br><li>Bird</li><br><li>McHale</li><br><li>Pari</li><br></ol>
+
+<p>–</p>
+<p>1.my<br>2.love<br>3</p>
+</li>
+</ul>
+<hr>
+<ul>
+<li><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.<br>Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,<br>viverra nec, fringilla in, laoreet vitae, risus.</p>
+</li>
+<li><p>Donec sit amet nisl. Aliquam semper ipsum sit amet velit.<br>Suspendisse id sem consectetuer libero luctus adipiscing.</p>
+</li>
+</ul>
+<hr>
+<ul>
+<li><p>first demo</p>
+</li>
+<li><p>secode demo</p>
+</li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>这里开始使用markdown格式输入你的正文。</p>
+<p>tags:</p>
+<hr>
+<blockquote>
+<p>zheshi </p>
+<blockquote>
+<p>shenme  </p>
+</blockquote>
+</blockquote>
+<hr>
+<]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
